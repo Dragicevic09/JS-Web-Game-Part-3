@@ -64,7 +64,7 @@ function newImage(url) {
   
     return {
       to: moveToCoordinates,
-      withArrowKeys: moveWithArrowKeys,
+      withArrowKeys: moveWithArrowKeys, 
     };
   }
   
